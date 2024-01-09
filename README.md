@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Camila Moreira</h1>
 <h3 align="center">A passionate mobile developer from Argentina</h3>
+<img src="https://github.com/camilamoreira23/porta/blob/main/portADAGH.png?raw=true">
+<br><br>
 
 - 💬 Ask me about **HTML,CSS, Kotlin, Java and SQL.**
 
 - 📫 How to reach me **Camilamoreira0223@gmail.com**
 <br><br>
-<img src="https://github.com/camilamoreira23/porta/blob/main/portADAGH.png?raw=true">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
