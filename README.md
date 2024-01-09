@@ -6,7 +6,7 @@
 - 💬 Ask me about **HTML,CSS, Kotlin, Java and SQL.**
 
 - 📫 How to reach me **Camilamoreira0223@gmail.com**
--  I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/camilamoreira23/porta/blob/main/CamilaMoreiraCV-english.pdf)
+-  I’m currently open for an internship or a new job opportunity, this is [my resume](https://github.com/camilamoreira23/porta/blob/main/CamilaMoreiraCV-english.pdf)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
