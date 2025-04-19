@@ -3,7 +3,7 @@
 <img src="https://github.com/camilamoreira23/porta/blob/main/portADAGH.png?raw=true">
 <br><br>
 
-- 💬 Ask me about **HTML,CSS, Kotlin, Java and SQL.**
+- 💬 Ask me about **COBOL, CICS, JCL, DB2, Java and SQL.**
 
 - 📫 How to reach me **Camilamoreira0223@gmail.com**
 -  I’m currently open for an internship or a new job opportunity, this is [my resume](https://github.com/camilamoreira23/porta/blob/main/CamilaMoreiraCV-english.pdf)
