@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camila Moreira</h1>
-<h3 align="center">A passionate mobile developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina</h3>
 <img src="https://github.com/camilamoreira23/porta/blob/main/portADAGH.png?raw=true">
 <br><br>
 
